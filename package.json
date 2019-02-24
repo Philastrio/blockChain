@@ -1,0 +1,13 @@
+{
+  "name": "typechain",
+  "version": "1.0.0",
+  "description": "Learing Typescrpit by making a Blockchain with it",
+  "main": "index.js",
+  "repository": "https://github.com/philastrio/blockChain.git",
+  "author": "philastrio <han_gang@naer.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js",
+    "prestart": "tsc"
+  }
+}
